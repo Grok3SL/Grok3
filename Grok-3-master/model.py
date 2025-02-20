@@ -1,4 +1,4 @@
-# Copyright 2024 X.AI Corp.
+# Copyright 2024 X.AI Corp
 #  
  / \__
 (    @\____
